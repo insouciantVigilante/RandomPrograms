@@ -3,7 +3,7 @@ Programmer's trance
 
 All Paths from Source to Target Node
 Description
-Given a directed acyclic graph (DAG) of n nodes labelled from 0 to n - 1, count all possible paths from node 0 to node n - 1, and return the number of paths.
+Given a directed acyclic graph (DAG) of n nodes labelled from 0 to n - 1, get all possible paths from node 0 to node n - 1, and return the number of paths.
 
 
 
@@ -13,7 +13,8 @@ The graph is given as follows: graph[i] is a list of all nodes you can visit fro
 
 Example:
 
-![image](https://user-images.githubusercontent.com/21288776/122802483-06e4d000-d2e3-11eb-8014-dd0ba7758b81.png)
+
+![image](https://user-images.githubusercontent.com/21288776/122802608-2976e900-d2e3-11eb-8428-ea7fe137da9f.png)
 
 
 
