@@ -13,6 +13,7 @@ The graph is given as follows: graph[i] is a list of all nodes you can visit fro
 
 Example:
 
+![image](https://user-images.githubusercontent.com/21288776/122802483-06e4d000-d2e3-11eb-8014-dd0ba7758b81.png)
 
 
 
