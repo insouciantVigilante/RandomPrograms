@@ -14,7 +14,7 @@ The graph is given as follows: graph[i] is a list of all nodes you can visit fro
 Example:
 
 
-![image](https://user-images.githubusercontent.com/21288776/122802608-2976e900-d2e3-11eb-8428-ea7fe137da9f.png)
+
 
 
 
